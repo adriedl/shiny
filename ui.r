@@ -1,1 +1,1 @@
-shinyUI(basicpage("Hello, Shiny!"))
+shinyUI(basicPage("Hello, Shiny!"))

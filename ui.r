@@ -1,1 +1,1 @@
-ui <- basicPage("Hello, Shiny!")
+basicPage("Hello, Shiny!")
